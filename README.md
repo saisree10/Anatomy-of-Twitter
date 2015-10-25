@@ -1,0 +1,2 @@
+# Anatomy-of-Twitter
+Worked on Social networking problem called "Anatomy of Twitter", which involves exploring TWITTER social networking graph (11 million user nodes &amp; 8 million relationship edges). Features include finding friends of friends for a user, Avg. no of friends for a user, shortest distance b/w two users in the graph, fraction of users lie in a certain hop distance, anomaly detection, visualization for graph metrics. Technologies used: JAVA, JUNG (Java Universal Network Graph) API, GEPHI visualization tool, Antler
